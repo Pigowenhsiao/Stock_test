@@ -1,0 +1,1 @@
+please use trandition chinese communiction with me, no matter what lang I used
