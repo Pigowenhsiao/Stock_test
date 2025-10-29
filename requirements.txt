@@ -1,0 +1,23 @@
+# Speckit Requirements
+
+## Runtime Dependencies
+python >= 3.7
+
+## Python Packages
+# 這個項目主要使用 PowerShell 腳本和系統命令
+# 但如果需要 Python 工具支援，可以包含以下套件
+
+# 基本工具套件
+# (此項目主要是 PowerShell 腳本，Python 用於實現 speckit.implement)
+
+# 如果需要 JSON 處理和系統命令支援
+# subprocess (built-in)
+# json (built-in)
+# os (built-in)
+# sys (built-in)
+# pathlib (built-in)
+# re (built-in)
+# argparse (built-in)
+
+# 標準庫已足夠處理 speckit.implement 功能
+# 不需要額外的第三方依賴

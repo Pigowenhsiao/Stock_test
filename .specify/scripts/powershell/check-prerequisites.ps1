@@ -36,7 +36,7 @@ OPTIONS:
   -Json               Output in JSON format
   -RequireTasks       Require tasks.md to exist (for implementation phase)
   -IncludeTasks       Include tasks.md in AVAILABLE_DOCS list
-  -PathsOnly          Only output path variables (no prerequisite validation)
+  -PathsOnly          Only output path variables (no validation)
   -Help, -h           Show this help message
 
 EXAMPLES:
